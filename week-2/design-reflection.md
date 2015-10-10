@@ -35,4 +35,4 @@ I didn't find anything too tedious because it's all still new to me. Until I act
 
 
 
-![Alt text](https://github.com/Soldez/phase-0/blob/master/week-2/site_map_png%20.png)
+![Alt text](imgs/site_map_png.png)
