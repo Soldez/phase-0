@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+}
+
+#div1 {
+	text-align: right;
+}
+
+#div2 {
+	position: absolute;
+	left: 120px;
+}
+
+#div3 {
+	position: absolute;
+}
+
+table.block{
+	position: absolute;
+	top: 410px;
+}
+
+table.block td {
+	padding: 10px; 
+}
+
+#div4 {
+	position: absolute;
+	top: 400px;
+	left: 119px;
+}
