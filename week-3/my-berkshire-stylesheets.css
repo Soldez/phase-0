@@ -1,0 +1,29 @@
+html {
+	color: #ffffff;
+}
+p {
+	color: #000080;
+}
+a {
+	color: #800080;
+}
+a:visited {
+	color: #ff000;
+}
+p {
+	align: "center";
+
+}
+font {
+	font-size: 30px;
+}
+font1 {
+	font-size: 12px;
+}
+table {
+	height: 50%;
+}
+h1{
+	text-decoration: overline;
+	color: black;
+}
