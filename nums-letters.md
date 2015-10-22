@@ -24,8 +24,12 @@ irb(main):002:0> 60*24*365*10
 irb(main):003:0>
 ```
 
+
+
 https://github.com/Soldez/phase-0/blob/master/week-4/basic-math.rb
+
 https://github.com/Soldez/phase-0/blob/master/week-4/defining-variables.rb
+
 https://github.com/Soldez/phase-0/blob/master/week-4/simple-string.rb
 
 
